@@ -10,9 +10,10 @@
 
 Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
-**OBJETIVO GENERAL:**
-
 **OBJETIVO ESPECIFICO:**
+
+Determinar los valores de voltaje y corriente para comprobar el teorema de maxima trasnferencia de potencia que se da a travez de una resistencia
+RL.
 
 **6.2. MARCO TEORICO**
 
@@ -104,6 +105,9 @@ la resistencia de la carga debe ser igual a la resistencia de thevenin.
 **6.5. Video**
 
 **6.6. Conclusiones**
+
+Se analizo y determino los diferentes resultados de voltajes y corrientes y con ayuda de los calculos realizados se pudo determinar la potencia en la resistencia
+RL.
 
 **6.7. Bibliografía:**
 
