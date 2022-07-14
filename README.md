@@ -137,7 +137,7 @@ RL.
 
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
 
-![image](https://user-images.githubusercontent.com/105680588/178907216-1f0bacb5-9579-4e4c-bd13-765f0b094f81.png)
+![image](https://user-images.githubusercontent.com/105680588/178984018-3df83d51-c4fe-4f2a-91a5-210f4ebe0ae9.png)
 
 **6.4.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
