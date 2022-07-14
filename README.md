@@ -137,18 +137,26 @@ RL.
 
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
 
+![image](https://user-images.githubusercontent.com/105680588/178907216-1f0bacb5-9579-4e4c-bd13-765f0b094f81.png)
+
 **6.4.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
 Se pudo determinar la transferencia de maxima potencia pero es necesario tomar mediciones con una resisitencia de 1200 ohms para poder allar la maxima potencia,
 la resistencia de la carga debe ser igual a la resistencia de thevenin. 
 
-**6.4.5. ¿Cuál fue la potencia máxima en RL?** 0.4685 **Watts**
+**6.4.5. ¿Cuál fue la potencia máxima en RL?**
 
-**6.4.6. ¿Para qué valor de RL se obtiene la MTP?** 1500 **Ohms**
+0.4685 **Watts**
+
+**6.4.6. ¿Para qué valor de RL se obtiene la MTP?**
+
+1500 **Ohms**
 
 **6.4.7. Grafique la curva Potencia vs RL y comente.**
 
 **6.5. Video**
+
+https://www.youtube.com/watch?v=l7nYBrgWX0I&ab_channel=RubenBustos
 
 **6.6. Conclusiones**
 
