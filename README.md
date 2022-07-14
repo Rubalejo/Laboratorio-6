@@ -152,8 +152,6 @@ la resistencia de la carga debe ser igual a la resistencia de thevenin.
 
 1500 **Ohms**
 
-**6.4.7. Grafique la curva Potencia vs RL y comente.**
-
 **6.5. Video**
 
 https://www.youtube.com/watch?v=l7nYBrgWX0I&ab_channel=RubenBustos
