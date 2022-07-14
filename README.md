@@ -17,6 +17,12 @@ RL.
 
 **6.2. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/105680588/178906417-8166e50a-a2a3-4c58-ae4b-5e5f0781ec48.png)
+
+![image](https://user-images.githubusercontent.com/105680588/178906466-460b77f2-42b0-4597-883e-ee017d0b2203.png)
+
+![image](https://user-images.githubusercontent.com/105680588/178906508-4d7dccc4-2caf-414c-be46-cb651cc50830.png)
+
 **6.3. MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/105680588/178847060-99e3738b-0c93-4569-879a-38c1e01df29b.png)
@@ -89,6 +95,46 @@ RL.
 
 **6.4.4. Mida la potencia empleando un vatímetri en el software ACDCLAB en RL y anote los resultados en la tabla 6.1. Anote los resultados medidos**
 
+*Resistor de 220 Ohms.
+
+![image](https://user-images.githubusercontent.com/105680588/178904963-a6a5bbcc-6c8e-477c-bbdb-b8965c8eb3a6.png)
+
+*Resistor de 470 Ohms.
+
+![image](https://user-images.githubusercontent.com/105680588/178904301-6ac8ef9e-4732-44f1-a192-baa382ed54d9.png)
+
+*Resistor de 680 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178905544-0dba957b-47ea-4e34-89a1-844680e084ad.png)
+
+*Resistor de 820 Ohms.
+
+![image](https://user-images.githubusercontent.com/105680588/178905773-c57f2726-c9e0-4b7b-8848-f8a6f2211a39.png)
+
+*Resistor de 1KOhms = 1000 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178906274-3fbb0f99-bd6d-41ad-955c-d9ac133d8900.png)
+
+*Resistor de 1,5KOhms = 1500 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178906163-15dc8040-a794-4c14-af8e-fa66dfe9282f.png)
+
+*Resistor de 1.8KOhms = 1800 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178906017-6b4261b0-bf18-46a8-901c-031b67ddceda.png)
+
+*Resistencia de 2.2KOhms = 2200 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178905216-8b775e41-7f86-4746-a5a3-9dedfb632892.png)
+
+*Resistencia de 3.9kOhms = 3900 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178905099-a577f522-658d-4ff1-b61c-d1e25ec0b0b3.png)
+
+*Resistencia de 4.7kOhms = 4700 Ohms
+
+![image](https://user-images.githubusercontent.com/105680588/178905300-6a896e42-6506-442a-86d0-4191c2c8a96a.png)
+
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
 
 **6.4.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
@@ -111,4 +157,10 @@ RL.
 
 **6.7. Bibliografía:**
 
+(N.d.). Retrieved July 14, 2022, from http://file:///C:/Users/user_lapt/Downloads/5%20Principios%20de%20circuitos%20electricos%20Floyd-protegido.pdf
 
+Teorema de transferencia de potencia máxima. (2019, October 26). La fisica y quimica. https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
+Electronics Circuits Simulator. Real looking Components. (2022). Dcaclab.com. https://dcaclab.com/es/lab
+
+‌
